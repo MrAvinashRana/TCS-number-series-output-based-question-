@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberPrint",
+            "request": "launch",
+            "mainClass": "NumberPrint",
+            "projectName": "TCS-number-series-output-based-question-_3bb29733"
+        }
+    ]
+}
